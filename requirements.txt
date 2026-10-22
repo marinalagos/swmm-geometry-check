@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+networkx>=2.8
+plotly>=5.10
+markdown>=3.4
